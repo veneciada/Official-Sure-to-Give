@@ -16,6 +16,9 @@ form{
     background-color: rgb(33, 36, 41);
 }
 
+.navi{
+    background-color: #f8d2d1 !important;
+}
 .navbar-custom{
     background-color: #e0c2c0;
 }
@@ -36,6 +39,7 @@ form{
     margin-left: 170px;
     margin-right: 170px;
 }
+
 
 .section-break{
     height: 100px;
