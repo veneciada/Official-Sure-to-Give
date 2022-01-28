@@ -16,8 +16,20 @@ form{
     background-color: rgb(33, 36, 41);
 }
 
+.navbar-custom{
+    background-color: #e0c2c0;
+}
+
+.bts{
+    background-color: #f8d2d1;
+}
+
 .call-to-action{
-    background-color: #fb9300 !important;
+    background-color: #e0c2c0 !important;
+}
+
+.g{
+    background-color: black;
 }
 
 .center{
@@ -34,5 +46,4 @@ form{
 }
 
 .nav-item, .dropdown-item{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-}
+    font-family: Georgia, 'Times New Roman', Times, serif;}
