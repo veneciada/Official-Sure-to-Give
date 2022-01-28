@@ -1,0 +1,38 @@
+textarea{
+    resize: none !important;
+}
+
+form{
+    border-radius: 5px;
+    background-color: #b4b4b4;
+    padding: 20px !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header-line{
+    width: 25%;
+    height: 5px;
+    background-color: rgb(33, 36, 41);
+}
+
+.call-to-action{
+    background-color: #fb9300 !important;
+}
+
+.center{
+    margin-left: 170px;
+    margin-right: 170px;
+}
+
+.section-break{
+    height: 100px;
+}
+
+.home, .product, .bts, .testimony, .complaint{
+    margin-top: 100px;
+}
+
+.nav-item, .dropdown-item{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
