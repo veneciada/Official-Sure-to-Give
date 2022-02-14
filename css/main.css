@@ -1,54 +1,61 @@
-textarea{
+@media (min-width: 320px) {
+  textarea {
     resize: none !important;
-}
+  }
 
-form{
+  form {
     border-radius: 5px;
     background-color: #b4b4b4;
     padding: 20px !important;
     margin-left: auto;
     margin-right: auto;
-}
+  }
 
-.header-line{
+  .header-line {
     width: 25%;
     height: 5px;
     background-color: rgb(33, 36, 41);
-}
+  }
 
-.navi{
+  .navi {
     background-color: #e0c2c0 !important;
-}
-.navbar-custom{
+  }
+  .navbar-custom {
     background-color: #e0c2c0;
-}
+  }
 
-.bts{
+  .bts {
     background-color: #e0c2c0 !important;
-}
+  }
 
-.call-to-action{
+  .call-to-action {
     background-color: #e0c2c0 !important;
-}
+  }
 
-.g{
+  .g {
     background-color: black;
-}
+  }
 
-.center{
+  .center {
     margin-left: 170px;
     margin-right: 170px;
     background-color: #e0c2c0;
-}
+  }
 
-
-.section-break{
+  .section-break {
     height: 100px;
-}
+  }
 
-.home, .product, .bts, .testimony, .complaint{
+  .home,
+  .product,
+  .bts,
+  .testimony,
+  .complaint {
     margin-top: 100px;
-}
+  }
 
-.nav-item, .dropdown-item{
-    font-family: Georgia, 'Times New Roman', Times, serif;}
+  .nav-item,
+  .dropdown-item {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+}
